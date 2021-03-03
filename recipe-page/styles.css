@@ -1,0 +1,38 @@
+p {
+  color:greyblack;
+}
+
+body{
+    background-color:#CA5010;
+
+}
+h1{
+    font-family: 'Ubuntu';
+    font-size: 4rem;
+
+}
+h3{
+    font-family:'Ubuntu', cursive;
+    font-size: 1.5em;
+}
+
+.description {
+    float: center;
+}
+
+.left {
+   width: 600px;
+   float: left;
+   margin-top: 0px;
+}
+
+.right {
+   width: 600px;
+   float: left;
+   margin-left: 30px;
+    
+}
+
+.container-fluid{
+    padding: 1% 2%
+}
